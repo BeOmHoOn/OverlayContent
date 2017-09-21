@@ -1,12 +1,14 @@
 # OverlayContent
 Overlay Text/Content FrameworkElement for WPF<br/>
 
-> # Exmaples
->## Example Image
->![exmaple](./OverlayContentForWPF.PNG)
 >
->## Example Xaml
-><code>
+# Exmaples
+## Example Image
+![exmaple](./OverlayContentForWPF.PNG)
+
+## Example Xaml
+>
+<code>
 >        <Grid>
 >            <c:OverlayedText
 >                Panel.ZIndex="1"
